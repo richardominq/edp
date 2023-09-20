@@ -3,3 +3,5 @@ Universidad de Panama
 Centro Regional Universitari de Cocle
 
 Panama
+
+cocle
