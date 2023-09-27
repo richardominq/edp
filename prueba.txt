@@ -7,3 +7,5 @@ estamos en el salon 105
 Ya regresamos
 
 Aprendiendpp a usar git
+
+Esto es una oracion
