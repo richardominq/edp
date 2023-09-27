@@ -1,11 +1,3 @@
 Universidad de Panama
 
 Centro Regional Universitari de Cocle
-
-<<<<<<< HEAD
-Estamos en el salon 403
-=======
-Panama
-
-panama
->>>>>>> c89aa08ce58d2ff955a034b9d704cabd50fd606f
