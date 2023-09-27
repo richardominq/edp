@@ -5,3 +5,5 @@ Centro Regional Universitari de Cocle
 estamos en el salon 105
 
 Ya regresamos
+
+Aprendiendpp a usar git
